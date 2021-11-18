@@ -1,0 +1,31 @@
+_repo: Trees-Shown-to-the-Children_66670
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kelman, Janet Harvey
+    alias: Harvey Kelman, Janet
+    gutenberg_agent_id: '40385'
+    url: http://www.gutenberg.org/2009/agents/40385
+creator:
+  author:
+    agent_name: Smith, C. E.
+    gutenberg_agent_id: '40384'
+    url: http://www.gutenberg.org/2009/agents/40384
+  editor:
+    agent_name: Chisholm, Louey
+    gutenberg_agent_id: '2485'
+    url: http://www.gutenberg.org/2009/agents/2485
+description: ''
+gutenberg_issued: '2021-11-05'
+identifiers:
+  gutenberg: '66670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Trees
+
+  Shown to the Children'
+url: http://www.gutenberg.org/ebooks/66670

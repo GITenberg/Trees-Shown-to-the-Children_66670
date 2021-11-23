@@ -6,6 +6,9 @@ contributor:
     alias: Harvey Kelman, Janet
     gutenberg_agent_id: '40385'
     url: http://www.gutenberg.org/2009/agents/40385
+covers:
+- cover_type: archival
+  image_path: 66670-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, C. E.
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '2485'
     url: http://www.gutenberg.org/2009/agents/2485
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66670#Trees-Shown-to-the-Children
 gutenberg_issued: '2021-11-05'
 identifiers:
   gutenberg: '66670'
